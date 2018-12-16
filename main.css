@@ -16,7 +16,7 @@ h2{
 
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: black;
+    color: white;
     font-size: 42;
 }
 
@@ -199,7 +199,7 @@ height: 300px;
 .shadow {
     display: inline-block;
     box-shadow: 5px 5px #00000099;
-    background-color: antiquewhite;
+    background-color: black;
     margin: 10px;
     border: 1px solid black;
     color: black;
